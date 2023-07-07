@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="16dd554d-69a7-4507-8a76-48d19c9e6ed8" kpf_version="5" name="CrimsonSite.komodoproject">
+<file id="3308f608-3c33-47e1-a852-4a884f8cf717" idref="16dd554d-69a7-4507-8a76-48d19c9e6ed8" name="Contact.html" url="Contact.html">
+</file>
+<file id="4bfb4df8-6981-421b-abef-8619b6f2e018" idref="16dd554d-69a7-4507-8a76-48d19c9e6ed8" name="CrimsonRainer.css" url="CrimsonRainer.css">
+</file>
+<file id="6791e3c6-1cdb-46d3-95e6-fe7afada2bbf" idref="16dd554d-69a7-4507-8a76-48d19c9e6ed8" name="Music.html" url="Music.html">
+</file>
+<file id="90c463bc-9c32-4b6d-9582-d70a98442bd8" idref="16dd554d-69a7-4507-8a76-48d19c9e6ed8" name="Art.html" url="Art.html">
+</file>
+<file id="e2ef6616-39cd-40fb-9033-5177f62aa001" idref="16dd554d-69a7-4507-8a76-48d19c9e6ed8" name="CrimsonRainer.html" url="CrimsonRainer.html">
+</file>
+<preference-set idref="16dd554d-69a7-4507-8a76-48d19c9e6ed8" id="project" preftype="project">
+  <long id="prefs_version">1</long>
+</preference-set>
+</project>
