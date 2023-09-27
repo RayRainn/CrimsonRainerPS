@@ -3,24 +3,46 @@
 
 /* Style the navigation bar */
 
-
 .navbar {
+  padding: 2rem;
   width: 100%;
   background-color: #555;
   overflow: auto;
-  position:absolute;
+  font-style:bold;
+}
+
+
+.kinesis {
+  text-align: center;
+}
+
+
+
+
+
+.email {
+  text-align:center;
+
+
+}
+a[href^="mailto:"]
+{ 
+  font-size:2rem ;
+  font-family: papyrus;
+  color: white;
+  
+  position:relative;
+  text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
   
 
 }
 
 /* Navbar links */
 .navbar a {
-  float: left;
-  text-align: center;
-  padding: 12px;
+
   color: white;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 4rem;
 }
 
 
@@ -84,8 +106,8 @@ h1 {
   font-family:papyrus;
   text-align:center;
   color: #FFFFFF;
-  font-size: 50px;
-  padding-top: 100px;
+  font-size: 4rem;
+  padding-top: 0.1rem;
   position:relative;
   text-shadow:1px 1px 10px #fff, 1px 1px 10px #ccc;
 }
@@ -150,9 +172,18 @@ h4{
 }
 .dragon{
   display: block;
+  padding-top:10rem;
   margin-left: auto;
   margin-right: auto;
 }
+
+.dragon2{
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.5rem;;
+
+}
+
 
 .war{
  display:block;
